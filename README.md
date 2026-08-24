@@ -135,14 +135,14 @@ CampusSkillSwap is a campus-based **skill exchange platform** designed to connec
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RAKHIDHAK623&show_icons=true&theme=radical"
-    width="48%"
+    src="./profile/stats.svg"
+    width="49%"
     alt="Rakhi's GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKHIDHAK623&layout=compact&theme=radical"
-    width="48%"
+    src="./profile/top-langs.svg"
+    width="49%"
     alt="Rakhi's Top Languages"
   />
 </p>
