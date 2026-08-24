@@ -43,7 +43,7 @@ I enjoy turning real-world problems into working software and continuously impro
 ### 👩🏻‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,java,javascript,php"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript"/>
 </p>
 
 ### 🎨 Frontend
@@ -67,7 +67,7 @@ I enjoy turning real-world problems into working software and continuously impro
 ### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
 </p>
 
 ---
@@ -226,7 +226,7 @@ I believe the best way to learn software development is by solving real problems
 <img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=google-chrome"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rakhidhak028@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
