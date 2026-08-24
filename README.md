@@ -13,13 +13,13 @@ B.Tech CSE Student | Full-Stack Developer | Java & Spring Boot Enthusiast
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://portfolio-7j9rti4lh-rakhi15.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/rakhi-dhak-602773288">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/RAKHIDHAK623">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -241,7 +241,7 @@ I believe the best way to learn software development is by solving real problems
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-7j9rti4lh-rakhi15.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=google-chrome"/>
 </a>
 
