@@ -1,8 +1,12 @@
-# 👩🏻‍💻 Hey, I'm Rakhi Dhak
+<h1 align="center">Hi 👋, I'm Rakhi Dhak</h1>
 
-### `B.Tech CSE Student` • `Full-Stack Developer` • `Problem Solver`
+<h3 align="center">
+B.Tech CSE Student | Full-Stack Developer | Java & Spring Boot Enthusiast
+</h3>
 
-> ✨ Building meaningful digital experiences, one line of code at a time.
+<p align="center">
+  Building practical solutions, learning new technologies, and turning ideas into real-world projects 🚀
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rakhi+Dhak+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+JavaScript;Building+Projects+That+Solve+Real+Problems+%F0%9F%9A%80" alt="Typing SVG" />
@@ -22,19 +26,19 @@
 
 ---
 
-## 🌷 About Me
+## 👩‍💻 About Me
 
-I'm a **Computer Science & Engineering student** passionate about software development, backend engineering, and building practical applications.
+🎓 B.Tech CSE student passionate about building real-world solutions through technology.
 
-I enjoy turning real-world problems into working software and continuously improving my development skills through projects and hands-on learning.
+💻 Interested in **Full-Stack Development, Java, Spring Boot, Web Development & AI**.
 
-* 🎓 **B.Tech — Computer Science & Engineering**
-* 💻 Interested in **Full-Stack & Backend Development**
-* ☕ Currently exploring **Java + Spring Boot**
-* 🔐 Learning **Authentication, APIs & Application Security**
-* 🔥 Building **CampusSkillSwap**
-* 🌱 Always learning something new
-* 🎯 Goal: Become a strong **Software Developer**
+🚀 Currently building projects that solve practical problems, including **CampusSkillSwap**.
+
+🌱 Currently learning **Advanced Java, Spring Boot, Backend Development & System Design**.
+
+🤝 Open to collaborating on innovative projects, hackathons, and open-source contributions.
+
+⚡ **Fun fact:** I love turning ideas into working prototypes!
 
 ---
 
