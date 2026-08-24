@@ -134,8 +134,8 @@ CampusSkillSwap is a campus-based **skill exchange platform** designed to connec
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAKHIDHAK623&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKHIDHAK623&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -143,7 +143,7 @@ CampusSkillSwap is a campus-based **skill exchange platform** designed to connec
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=RAKHIDHAK623&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -151,7 +151,7 @@ CampusSkillSwap is a campus-based **skill exchange platform** designed to connec
 # 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/RAKHIDHAK623/RAKHIDHAK623/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
