@@ -161,7 +161,7 @@ CampusSkillSwap is a campus-based **skill exchange platform** designed to connec
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/RAKHIDHAK623/RAKHIDHAK623/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/RAKHIDHAK623/RAKHIDHAK623/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
